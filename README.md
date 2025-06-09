@@ -66,7 +66,7 @@ Hosted demo or walkthrough video coming soon.
 
 ## 📸 Screenshots
 
-*Add images of your NiFi canvas, Grafana dashboards, PostgreSQL outputs.*
+*Included in Screenshots Folder*
 
 ---
 
